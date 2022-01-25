@@ -11,9 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
+Translation json with static keys.
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
@@ -25,11 +23,13 @@ start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+[comment]: <> (TODO: Include short and useful examples for package users. Add longer examples)
+
+[comment]: <> (to `/example` folder. )
 
 ```dart
-const like = 'sample';
+
+
 ```
 
 ## Additional information
